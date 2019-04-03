@@ -4,9 +4,9 @@ import com.sesung.member.Member;
 
 public class MemberView {	
 
-	public void view(String message) {
-		System.out.println(message);
-	}
+//	public void view(String message) {
+//		System.out.println(message);
+//	}
 
 	//member 한 명의 정보 출력 메서드
 	public void view(Member member) {
